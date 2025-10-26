@@ -1,6 +1,11 @@
 # Linear-Regression-model-using-Stochastic-Gradient-Descent
 About implement a Linear Regression model using Stochastic Gradient Descent (SGD) from scratch (without use any pre-built ML libraries).
-## list 10 types of optimizers
+## 🧠 Project Overview
+The goal of this project is to understand how Linear Regression works internally by manually implementing all its core steps — including predictions, error calculation, and parameter updates.
+
+The dataset used (MultipleLR.csv) contains three input features and one target output.
+It represents a simple multiple linear relationship as shown below:
+### list 10 types of optimizers
 **used in Machine Learning and write a very short
 explanation (one line) for each**
 
@@ -23,3 +28,4 @@ explanation (one line) for each**
 **Nadam (Nesterov-accelerated Adaptive Moment Estimation)**: Integrates Nesterov accelerated gradient into the Adam optimization algorithm for potentially better performance.
 
 **L-BFGS (Limited-memory BFGS)**: A quasi-Newton method that approximates the second derivative (Hessian matrix) to find a more direct path to the minimum, suitable for smaller datasets.
+<img width="521" height="347" alt="504737444-7dc20cd8-233a-4ab6-87fa-db877c921995" src="https://github.com/user-attachments/assets/a3a672c0-279a-4d8f-8e59-a5af342287de" />
