@@ -1,6 +1,6 @@
 # Linear-Regression-model-using-Stochastic-Gradient-Descent
 About implement a Linear Regression model using Stochastic Gradient Descent (SGD) from scratch (without use any pre-built ML libraries).
-##** list 10 types of optimizers
+** list 10 types of optimizers
 used in Machine Learning and write a very short
 explanation (one line) for each**
 
